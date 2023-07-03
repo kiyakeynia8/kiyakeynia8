@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   <img src="nightlife.gif" alt="Lofi Nightlight scene" /> 
 </p>
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.comkiyakeynia8/kiyakeynia8/blob/main/dino.gif" style="display: block; opacity: 1;">
