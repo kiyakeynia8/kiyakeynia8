@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center"> 
   <img src="nightlife.gif" alt="Lofi Nightlight scene" /> 
 </p>
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
