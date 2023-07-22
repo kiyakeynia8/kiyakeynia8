@@ -28,6 +28,14 @@ Here are some ideas to get you started:
   <img height="150" width="150" src="WEBP/right.webp">
 </p>
 
+<li style="animation-delay: 1500ms;">
+<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;"
+viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
+fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+<span class="lang">Python</span>
+<span class="percent">0.24%</span>
+</li>
+
 <p align="center"> 
   <img src="nightlife.gif" alt="Lofi Nightlight scene" /> 
 </p>
