@@ -22,6 +22,12 @@ Here are some ideas to get you started:
 
 ![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kiyakeynia8&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
+## 🔧 Technologies
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
+
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyakeynia8&theme=dark&hide_border=true"/>
