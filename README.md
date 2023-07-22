@@ -38,6 +38,14 @@ Here are some ideas to get you started:
   <img src="nightlife.gif" alt="Lofi Nightlight scene" /> 
 </p>
 
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+
+
 <h4 align="center">
   <a href="https://github.com/kiyakeynia8?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
