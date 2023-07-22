@@ -38,6 +38,3 @@ Here are some ideas to get you started:
   <img src="nightlife.gif" alt="Lofi Nightlight scene" /> 
 </p>
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-</div>
