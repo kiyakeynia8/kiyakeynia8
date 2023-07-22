@@ -28,6 +28,20 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafan
+</table>
+
+
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyakeynia8&theme=dark&hide_border=true"/>
