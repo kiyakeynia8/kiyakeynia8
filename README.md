@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kiyakeynia8&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kiyakeynia8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔧 Technologies
 
