@@ -28,12 +28,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 
-<p align="center">
-  <img height="150" width="150" src="WEBP/left.webp">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiyakeynia8&theme=dark&hide_border=true"/>
-  <img height="150" width="150" src="WEBP/right.webp">
-</p>
-
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
